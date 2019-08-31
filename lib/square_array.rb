@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while squared < array.length
+    puts array**2
+    sqaured
 end
