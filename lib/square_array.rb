@@ -1,5 +1,8 @@
 def square_array(array)
-  while squared < array.length
-    puts array**2
-    sqaured
+  i = 0
+  while i < array.length
+    array[i] = array[i] **2
+    i += 1
+  end
+  array
 end
