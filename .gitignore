@@ -17,5 +17,4 @@ jspm_packages
 /db/*.sqlite3-journal
 /log/*
 !/log/.keep
-/tmp
-    
+/tmp 
